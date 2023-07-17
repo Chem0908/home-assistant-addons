@@ -63,7 +63,6 @@ RUN \
     /var/{cache,log}/* \
     /var/lib/apt/lists/* \
     \
-    && pip3 install --upgrade pip3 setuptools wheel \
     && pip3 install \
     --verbose --no-cache-dir -r /tmp/requirements.txt \
     && pip3 install \
