@@ -22,7 +22,7 @@ RUN \
     gcc \
     git \
     libatlas3-base\
-    zlib1g-dev2 \
+    zlib1g-dev \
     portaudio19-dev \
     python3-dev \
     python3 \
