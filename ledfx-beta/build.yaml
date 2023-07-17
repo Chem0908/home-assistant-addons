@@ -4,7 +4,7 @@ build_from:
   amd64: "ghcr.io/home-assistant/amd64-base-debian:bullseye"
   armhf: "ghcr.io/home-assistant/armhf-base-debian:bullseye"
   armv7: "ghcr.io/home-assistant/armv7-base-debian:bullseye"
-  i386: "ghcr.io/home-assistant/i386-base-debian:bullseye"
+  #i386: "ghcr.io/home-assistant/i386-base-debian:bullseye"
 labels:
   org.opencontainers.image.authors: "Spiro C <spiroc@gmail.com>"
   org.opencontainers.image.title: "Home Assistant LedFX add-on"
